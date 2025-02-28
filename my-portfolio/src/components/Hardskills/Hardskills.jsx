@@ -5,7 +5,7 @@ import { getImageUrl } from '../../utils'
 
 const Hardskills = () => {
   return (
-    <section id="hardkills">
+    <section id="hardskills">
         <h2>Hard Skills</h2>
         <div>
             <div>
